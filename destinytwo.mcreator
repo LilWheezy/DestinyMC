@@ -1,0 +1,84 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Destiny2",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "destiny_2"
+    },
+    {
+      "name": "Erika",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erika"
+    },
+    {
+      "name": "HunterArcOverlay",
+      "type": "overlay",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hunter_arc_overlay"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "riseofironmain",
+      "files": [
+        "destiny-rise-of-iron-main-menu-theme"
+      ],
+      "category": "music",
+      "subtitle": "Rise of Iron"
+    },
+    {
+      "name": "erika",
+      "files": [
+        "erika-ww2-marching-song_1_1"
+      ],
+      "category": "record",
+      "subtitle": "ERIKA!!!"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.erika": "ERIKA!!!",
+      "itemGroup.tabdestiny_2": "Destiny 2",
+      "item.destinytwo.erika.desc": "Und das heiﬂt, ERIKA!",
+      "item.destinytwo.erika": "Erika",
+      "subtitles.riseofironmain": "Rise of Iron"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "destinytwo",
+    "modName": "destinytwo",
+    "version": "1.0.0",
+    "description": "destiny 2 but pain",
+    "author": "Jimmy Payday",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.jimmypayday.destinytwo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGH",
+    "components": [],
+    "baseTexture": "arc1overlay.png"
+  }
+}

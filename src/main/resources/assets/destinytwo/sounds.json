@@ -1,0 +1,22 @@
+{
+  "riseofironmain": {
+    "category": "music",
+    "subtitle": "subtitles.riseofironmain",
+    "sounds": [
+      {
+        "name": "destinytwo:destiny-rise-of-iron-main-menu-theme",
+        "stream": true
+      }
+    ]
+  },
+  "erika": {
+    "category": "record",
+    "subtitle": "subtitles.erika",
+    "sounds": [
+      {
+        "name": "destinytwo:erika-ww2-marching-song_1_1",
+        "stream": true
+      }
+    ]
+  }
+}

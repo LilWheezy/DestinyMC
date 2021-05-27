@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "erika",
+    "name": "Erika",
+    "description": "Und das heiﬂt, ERIKA!",
+    "creativeTab": {
+      "value": "CUSTOM:Destiny2"
+    },
+    "music": {
+      "value": "CUSTOM:erika"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
